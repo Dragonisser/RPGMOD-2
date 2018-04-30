@@ -1,1 +1,1 @@
-Mod that adds rpg elemts into minecraft
+Mod that adds rpg elements into minecraft
