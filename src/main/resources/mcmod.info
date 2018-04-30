@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rpgmod",
+  "name": "Simple RPG",
+  "description": "A simple rpg mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dragonisser, FunnyFactory"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

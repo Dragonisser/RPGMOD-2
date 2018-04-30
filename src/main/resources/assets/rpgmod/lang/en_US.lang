@@ -1,0 +1,86 @@
+
+
+
+//Gui related
+
+gui.class_choose=Choose a class and press done
+gui.race_choose=Choose a race and press done
+gui.class_sure=Are you sure?
+gui.classes=Classes
+gui.class=Class
+gui.races=Races
+gui.race=Race
+gui.info=Player Info
+gui.home=Home
+
+//Info
+
+gui.warrior.info=
+
+
+
+//Standard
+
+gui.caster=Caster
+gui.swordsman=Swordsman
+gui.archer=Archer
+gui.assassin=Assassin
+
+
+
+
+
+//Extended
+
+
+gui.mage=Mage
+gui.priest=Priest
+gui.necromancer=Necromancer
+
+
+gui.warrior=Warrior
+gui.knight=Knight
+gui.berserker=Berserker
+
+
+gui.sniper=Sniper
+gui.ranger=Ranger
+
+
+
+gui.rogue=Rogue
+gui.thief=Thief
+
+
+//Classes info
+gui.swordsman.info.1=I have big
+gui.swordsman.info.2=curved swords
+
+
+gui.archer.info.1=I can shoot
+gui.archer.info.2=potatoes
+
+
+gui.assassin.info.1=Rushin in or
+gui.assassin.info.2=Sneaky beaky like
+
+
+gui.caster.info.1=I can cast
+gui.caster.info.2=fancy magic
+
+
+
+//Races
+gui.human=Human
+gui.orc=Orc
+gui.elf=Elf
+gui.dwarf=Dwarf
+gui.tauren=Tauren
+gui.argonian=Argonian
+
+
+
+
+
+
+
